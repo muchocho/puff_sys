@@ -9,3 +9,4 @@ c:\users\dell\documents\visual studio 2015\Projects\puff_sys_V0001\puff_sys_V000
 c:\users\dell\documents\visual studio 2015\Projects\puff_sys_V0001\puff_sys_V0001\obj\Debug\puff_sys_V0001.exe
 c:\users\dell\documents\visual studio 2015\Projects\puff_sys_V0001\puff_sys_V0001\obj\Debug\puff_sys_V0001.xml
 c:\users\dell\documents\visual studio 2015\Projects\puff_sys_V0001\puff_sys_V0001\obj\Debug\puff_sys_V0001.pdb
+C:\Users\DELL\documents\visual studio 2015\Projects\puff_sys_V0001\puff_sys_V0001\obj\Debug\puff_sys_V0001.Form2.resources
